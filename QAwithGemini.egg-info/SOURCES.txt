@@ -1,0 +1,9 @@
+setup.py
+QAwithGemini.egg-info/PKG-INFO
+QAwithGemini.egg-info/SOURCES.txt
+QAwithGemini.egg-info/dependency_links.txt
+QAwithGemini.egg-info/top_level.txt
+src/__init__.py
+src/data_ingestion.py
+src/embedding.py
+src/model_api.py

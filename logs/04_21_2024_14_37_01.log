@@ -1,0 +1,5 @@
+[2024-04-21 14:38:28,617] 10 root - INFO - Data loading started------
+[2024-04-21 14:38:28,635] 14 root - INFO - Data loading completed-----
+[2024-04-21 14:38:30,168] 15 root - INFO - Embedding started to download -------
+[2024-04-21 14:38:30,367] 19 root - INFO - Storing Vector embedding--------
+[2024-04-21 14:38:35,600] 24 root - INFO - Querying results------

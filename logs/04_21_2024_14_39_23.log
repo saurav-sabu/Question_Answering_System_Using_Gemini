@@ -1,0 +1,25 @@
+[2024-04-21 14:39:30,607] 10 root - INFO - Data loading started------
+[2024-04-21 14:39:30,622] 14 root - INFO - Data loading completed-----
+[2024-04-21 14:39:32,060] 15 root - INFO - Embedding started to download -------
+[2024-04-21 14:39:32,269] 19 root - INFO - Storing Vector embedding--------
+[2024-04-21 14:39:37,509] 24 root - INFO - Querying results------
+[2024-04-21 14:42:01,599] 10 root - INFO - Data loading started------
+[2024-04-21 14:42:01,601] 14 root - INFO - Data loading completed-----
+[2024-04-21 14:42:03,055] 15 root - INFO - Embedding started to download -------
+[2024-04-21 14:42:03,059] 19 root - INFO - Storing Vector embedding--------
+[2024-04-21 14:42:08,282] 24 root - INFO - Querying results------
+[2024-04-21 14:42:38,800] 10 root - INFO - Data loading started------
+[2024-04-21 14:42:38,801] 14 root - INFO - Data loading completed-----
+[2024-04-21 14:42:40,234] 15 root - INFO - Embedding started to download -------
+[2024-04-21 14:42:40,237] 19 root - INFO - Storing Vector embedding--------
+[2024-04-21 14:42:45,531] 24 root - INFO - Querying results------
+[2024-04-21 14:42:59,943] 10 root - INFO - Data loading started------
+[2024-04-21 14:42:59,944] 14 root - INFO - Data loading completed-----
+[2024-04-21 14:43:04,405] 15 root - INFO - Embedding started to download -------
+[2024-04-21 14:43:04,408] 19 root - INFO - Storing Vector embedding--------
+[2024-04-21 14:43:09,670] 24 root - INFO - Querying results------
+[2024-04-21 14:43:51,110] 10 root - INFO - Data loading started------
+[2024-04-21 14:43:51,112] 14 root - INFO - Data loading completed-----
+[2024-04-21 14:43:52,623] 15 root - INFO - Embedding started to download -------
+[2024-04-21 14:43:52,626] 19 root - INFO - Storing Vector embedding--------
+[2024-04-21 14:43:57,849] 24 root - INFO - Querying results------
